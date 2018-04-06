@@ -1,3 +1,21 @@
+@import url("fontawesome-4.6.3.min.css");
+.footer_link{
+  margin-top: 70%;
+  background-color: grey;
+}
+.faicon-facebook:hover{
+  color:blue;
+}
+.faicon-google-plus:hover{
+  color:red;
+}
+.faicon-linkedin:hover{
+  color:blue;
+}
+.faicon-twitter:hover{
+  color:lightBlue;
+}
+
 img{
   max-width: 100%;
   height: auto;
